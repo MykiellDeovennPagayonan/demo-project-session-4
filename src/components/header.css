@@ -1,0 +1,17 @@
+.container {
+  height: 80px;
+  width: 100vw;
+  background-color: rgb(227, 239, 248);
+}
+
+.button-container {
+
+}
+
+.button {
+  height: 50px;
+  width: 70px;
+  border: none;
+  background-color: aquamarine;
+  margin: 10px
+}
